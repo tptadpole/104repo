@@ -8,6 +8,10 @@ function cmp($a, $b)
         return -1 ;
     }
 
+    if ( mb_strlen($b[2], "UTF-8") != strlen($b[2]) ) {
+        return 1 ;
+    } 
+
     if ((int)$a[2] == (int)$b[2]) {
         return 0 ;
     }
