@@ -1,6 +1,6 @@
 # mask.php 使用說明方式
 
-請記得將檔案放置到與vendor同個資料夾內
+請記得將檔案放置到與vendor同個資料夾內\n
 裡面有使用CLImate這個composer來美化輸出結果
 如果沒有安裝composer或是CLImate請記得安裝
 
