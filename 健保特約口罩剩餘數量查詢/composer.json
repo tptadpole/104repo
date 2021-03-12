@@ -1,0 +1,13 @@
+{
+    "name": "gary.ke/foo",
+    "authors": [
+        {
+            "name": "tptadpole",
+            "email": "wk7293@gmail.com"
+        }
+    ],
+    "require": {
+        "nesbot/carbon": "^2.46",
+        "league/climate": "^3.7"
+    }
+}
